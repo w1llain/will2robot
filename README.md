@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @will2robot
-- 👀 I’m interested in Cyber Security, making small programs, IT, robots!
-- 🌱 I’m currently learning Cyber Security with Try Hack Me.
+- 👀 I’m interested in programming and robots!
+- 🌱 I’m learning c++ to try and get some kind of job doing this.
 - 📫 Reach me on here.
 
 <!---
