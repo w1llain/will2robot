@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @will2robot
 - 👀 I’m interested in programming and robots!
-- 🌱 I’m learning c++ to try and get some kind of job doing this.
+- 🌱 I’m learning c++ to try and get a job doing this.
 - 📫 Reach me on here.
 
 <!---
