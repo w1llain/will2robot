@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @will2robot
-- 👀 I’m interested in programming and robots!
-- 🌱 I’m learning c++ to try and get a job doing this.
-- 📫 Reach me on here.
+- 👋 Hi, I’m will2robot
+- 👀 I’m interested in programming, robots, looking for insecurities, and video games.
+- 🌱 I’m looking to learn enough about something to try and make money and earn a living.
 
 <!---
 will2robot/will2robot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
