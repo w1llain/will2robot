@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m will2robot
 - 👀 I’m interested in robots, looking for insecurities, and playing video games.
-- 🌱 I’m looking to learn enough about something to try and make money and earn a living.
+- 🌱 I want to know enough about hacking computer programs to earn a living.
 
 <!---
 will2robot/will2robot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
