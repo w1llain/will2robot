@@ -1,8 +1,8 @@
 [![@will2robot's Holopin board](https://holopin.io/api/user/board?user=will2robot)](https://holopin.io/@will2robot)
 
 - 👋 Hi, I’m will2robot
-- 👀 I’m interested in robots, looking for insecurities, and playing video games.
-- 🌱 I want to know enough about hacking computer programs to earn a living.
+- 👀 I’m interested in robots, looking for security issues in computer programs.
+- 🌱 I don't know what I want to do yet.
 
 <!---
 will2robot/will2robot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
