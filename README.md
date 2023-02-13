@@ -1,7 +1,7 @@
 [![@will2robot's Holopin board](https://holopin.io/api/user/board?user=will2robot)](https://holopin.io/@will2robot)
 
 - 👋 Hi, I’m will2robot
-- 👀 I’m interested in robots, looking for security issues in computer programs.
+- 👀 I’m interested in robots, computer security, and mega scary video game.
 - 🌱 I don't know what I want to do yet.
 
 <!---
