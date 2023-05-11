@@ -1,5 +1,3 @@
-[![@will2robot's Holopin board](https://holopin.io/api/user/board?user=will2robot)](https://holopin.io/@will2robot)
-
 - 👋 Hi, I’m will2robot
 - 👀 I’m interested in robots, computer security
 
